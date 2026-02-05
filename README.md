@@ -3,7 +3,11 @@
 A clean, responsive, one-page portfolio website for showcasing professional proofreading services.  
 Designed to highlight before/after samples, process, pricing, and an easy contact flow — without unnecessary complexity.
 
-Live demo: _(add link once deployed)_
+> [Live demo](https://proofreading-resume.netlify.app/)
+
+· · ─ ·✶· ─ · ·
+
+![screenshot](https://res.cloudinary.com/dhw9dl4gm/image/upload/v1770332258/proofreader-page-02-05-2026_04_56_PM_csvqzr.png)
 
 ---
 
